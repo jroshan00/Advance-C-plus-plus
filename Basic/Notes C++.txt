@@ -1,0 +1,6 @@
+1) ".\filename"  -------- typing this in terminal will execute the code written in the file.
+2) "dir" ---- will show all the directories in the the opened folder.
+3) "rm fialename" remove  the file with the specified name.
+4) "clear" command cleans the terminal.
+5) "Cin" is uesd to take input from user and it stands for see in.
+6) "Cout" is used to get output from the program and it stands for see out.
