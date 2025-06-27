@@ -1,0 +1,1 @@
+const double constant=0.5;
